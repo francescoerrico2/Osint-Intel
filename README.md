@@ -30,7 +30,7 @@
 ## Screenshot
 
 <p align=\"center\">
-  <img src=\"dashboard.png\" alt=\"OSINT Intel Dashboard\" width=\"800\"/>
+  <img src="dashboard.png\" alt=\"OSINT Intel Dashboard\" width=\"800\"/>
 </p>
 
 ---
