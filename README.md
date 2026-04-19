@@ -1,4 +1,4 @@
-"# OSINT Intel
+# OSINT Intel
 
 <p align=\"center\">
   <img src=\"https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows\" alt=\"Windows\"/>
