@@ -2,7 +2,7 @@
 
 <p align=\"center\">
   <img src=\"https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows\" alt=\"Windows\"/>
-  <img src=\"https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge\" alt=\"Version\"/>
+  <img src=\"https://img.shields.io/badge/Version-2.0.0-green?style=for-the-badge\" alt=\"Version\"/>
   <img src=\"https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge\" alt=\"License\"/>
 </p>
 
@@ -30,20 +30,20 @@
 ## Screenshot
 
 <p align=\"center\">
-  <img src=\"screenshots/dashboard.png\" alt=\"OSINT Intel Dashboard\" width=\"800\"/>
+  <img src=\"dashboard.png\" alt=\"OSINT Intel Dashboard\" width=\"800\"/>
 </p>
 
 ---
 
 ## Download
 
-📥 **[Download OSINT-Intel-1.0.0-Portable.exe](https://github.com/YOUR_USERNAME/osint-intel/releases/latest)**
+📥 **[Download OSINT-Intel-2.0.0-Portable.exe](https://github.com/francescoerrico2/Osint-Intel/releases/latest)**
 
 ---
 
 ## Usage
 
-1. **Download** the portable `.exe` from [Releases](https://github.com/YOUR_USERNAME/osint-intel/releases)
+1. **Download** the portable `.exe` from [Releases](https://github.com/francescoerrico2/Osint-Intel/releases)
 2. **Run** `OSINT-Intel-2.0.0-Portable.exe`
 3. **Configure API Keys** (optional but recommended):
    - Click the ⚙️ Settings icon
