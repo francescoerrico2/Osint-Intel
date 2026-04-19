@@ -114,6 +114,4 @@ For full threat intelligence data, configure these free API keys:
 
 MIT License - See [LICENSE](LICENSE) for details
 
----
 
-"
