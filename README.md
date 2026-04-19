@@ -37,14 +37,14 @@
 
 ## Download
 
-📥 **[Download OSINT-Intel-2.0.0-Portable.exe](https://github.com/francescoerrico2/Osint-Intel/releases/latest)**
+📥 **[Download OSINT-Intel-2.0.0](https://github.com/francescoerrico2/Osint-Intel/releases/latest)**
 
 ---
 
 ## Usage
 
-1. **Download** the portable `.exe` from [Releases](https://github.com/francescoerrico2/Osint-Intel/releases)
-2. **Run** `OSINT-Intel-2.0.0-Portable.exe`
+1. **Download** the portable or installer from [Releases](https://github.com/francescoerrico2/Osint-Intel/releases)
+2. **Run** `OSINT-Intel-2.0.0-xxx.exe`
 3. **Configure API Keys** (optional but recommended):
    - Click the ⚙️ Settings icon
    - Enter your API keys for enhanced threat intelligence
