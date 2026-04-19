@@ -1,9 +1,9 @@
 # OSINT Intel
 
 <p align=\"center\">
-  <img src=\"https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows\" alt=\"Windows\"/>
-  <img src=\"https://img.shields.io/badge/Version-2.0.0-green?style=for-the-badge\" alt=\"Version\"/>
-  <img src=\"https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge\" alt=\"License\"/>
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows\" alt=\"Windows\"/>
+  <img src="https://img.shields.io/badge/Version-2.0.0-green?style=for-the-badge\" alt=\"Version\"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge\" alt=\"License\"/>
 </p>
 
 <p align=\"center\">
